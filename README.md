@@ -9,8 +9,7 @@ This project is bascically build in four phases.
 
 ## 1) Data Gathering:
 
-  1) Data is gathering using the techniques of web scraping using Beautifulsoup4. Data is collected from en.tutiempo.net.
-  2) Real life PM 2.5 index is collected using a third party API that is paid. So, direct csv files are attached along with this repo.
+   Data is gathering using the techniques of web scraping using Beautifulsoup4. Data is collected from en.tutiempo.net. Real life PM 2.5 index is collected using a third party API that is paid. So, direct csv files are attached along with this repo.
   
 ## 2) Feature Engineering:
 
